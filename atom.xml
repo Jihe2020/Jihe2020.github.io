@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://jihe2020.github.io</id>
+    <title>几何空间</title>
+    <updated>2020-07-16T10:16:06.582Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://jihe2020.github.io"/>
+    <link rel="self" href="https://jihe2020.github.io/atom.xml"/>
+    <subtitle>国外个人博客</subtitle>
+    <logo>https://jihe2020.github.io/images/avatar.png</logo>
+    <icon>https://jihe2020.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, 几何空间</rights>
+    <entry>
+        <title type="html"><![CDATA[置顶文章]]></title>
+        <id>https://jihe2020.github.io/post/zhi-ding-wen-zhang/</id>
+        <link href="https://jihe2020.github.io/post/zhi-ding-wen-zhang/">
+        </link>
+        <updated>2020-07-16T10:15:15.000Z</updated>
+        <content type="html"><![CDATA[<p>公告：暂时没有公告哦<br>
+网站历史记录：<br>
+2020.7.09 网站制作好啦！我发个文章测试一下<br>
+2020.7.12 已纯净网站<br>
+2020.7.12 个人博客建立<br>
+2020.7.16 重置网站</p>
+]]></content>
+    </entry>
+</feed>
