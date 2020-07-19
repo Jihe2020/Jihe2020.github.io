@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jihe2020.github.io</id>
     <title>几何空间</title>
-    <updated>2020-07-19T13:37:14.360Z</updated>
+    <updated>2020-07-19T14:14:08.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jihe2020.github.io"/>
     <link rel="self" href="https://jihe2020.github.io/atom.xml"/>
@@ -15,7 +15,7 @@
         <id>https://jihe2020.github.io/post/zhi-ding-wen-zhang/</id>
         <link href="https://jihe2020.github.io/post/zhi-ding-wen-zhang/">
         </link>
-        <updated>2020-07-16T10:15:15.000Z</updated>
+        <updated>2020-07-19T14:14:00.000Z</updated>
         <content type="html"><![CDATA[<p>公告：本博客隔几个月会重置一次，请悉知；本博客的页面也有可能进行改版，要尽快习惯。<br>
 因为这个网站是用GitHub建立的，GitHub在国外，所以国内打开的速度比较慢，需要耐心等待，或者有条件的话最好科学上网。手机端想要打开网站最好科学上网，不然要等好久。<br>
 本人暂无微信公众号，要分享的文件都会在这里发出来，大家想寻找相关文件可通过标签寻找文件。<br>
@@ -23,6 +23,25 @@
 <p>联系方式：<br>
 电子邮箱：342585749@qq.com<br>
 百度网盘账号昵称：几何狂man（资源分享）</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[现在还在生存中的网盘加速器-亿寻]]></title>
+        <id>https://jihe2020.github.io/post/xian-zai-huan-zai-sheng-cun-zhong-de-wang-pan-jia-su-qi-yi-xun/</id>
+        <link href="https://jihe2020.github.io/post/xian-zai-huan-zai-sheng-cun-zhong-de-wang-pan-jia-su-qi-yi-xun/">
+        </link>
+        <updated>2020-07-19T13:41:24.000Z</updated>
+        <summary type="html"><![CDATA[<pre><code>pandowload的作者被抓后，这个软件也彻底凉了，本人也深深受到打击。最近网盘直链下载这个脚本也限速了。我只好找出了很久以前下载的亿寻，下载的速度居然提上来了！至少不用几十kb/s了，最高可达到1.8mb/s（我已经满足）
+</code></pre>
+]]></summary>
+        <content type="html"><![CDATA[<pre><code>pandowload的作者被抓后，这个软件也彻底凉了，本人也深深受到打击。最近网盘直链下载这个脚本也限速了。我只好找出了很久以前下载的亿寻，下载的速度居然提上来了！至少不用几十kb/s了，最高可达到1.8mb/s（我已经满足）
+</code></pre>
+<!-- more -->
+<p>亿寻是比较容易上手的，我这里就不多说了。亿寻的作者为了找一个人，专门写了这款程序，ta也一直在不断更新，吧这个程序维护得很好。为了帮助作者，我们要多转发这个程序鸭。<br>
+亿寻官网：https://yixun.writeas.com/yi-xun<br>
+亿寻现在的网盘账密登录暂时不能用，现在只有扫二维码、接受手机验证码和cookie这三种方法来登录百度网盘的账号。如果手机不在身边，可以用cookie登录，cookie登录教程：https://www.bilibili.com/video/BV1uK4y1k76z/<br>
+亿寻界面：<img src="https://jihe2020.github.io/post-images/1595167773231.png" alt="" loading="lazy"><br>
+这是网盘下载的关键，所以置顶了。下载速度自己去体验吧。</p>
 ]]></content>
     </entry>
 </feed>
