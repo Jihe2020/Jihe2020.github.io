@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jihe2020.github.io</id>
     <title>小Cheems的博客</title>
-    <updated>2021-05-30T15:17:15.524Z</updated>
+    <updated>2021-06-06T06:57:09.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jihe2020.github.io"/>
     <link rel="self" href="https://jihe2020.github.io/atom.xml"/>
@@ -10,32 +10,6 @@
     <logo>https://jihe2020.github.io/images/avatar.png</logo>
     <icon>https://jihe2020.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 小Cheems的博客</rights>
-    <entry>
-        <title type="html"><![CDATA[佳灰鸡你太美]]></title>
-        <id>https://jihe2020.github.io/post/jia-hui-ji-ni-tai-mei/</id>
-        <link href="https://jihe2020.github.io/post/jia-hui-ji-ni-tai-mei/">
-        </link>
-        <updated>2021-05-25T15:00:19.000Z</updated>
-        <content type="html"><![CDATA[<p>啊啊啊啊啊啊啊啊啊啊啊啊啊啊，我爱坤坤<br>
-桃花源记<br>
-博客归来</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[置顶文章]]></title>
-        <id>https://jihe2020.github.io/post/zhi-ding-wen-zhang/</id>
-        <link href="https://jihe2020.github.io/post/zhi-ding-wen-zhang/">
-        </link>
-        <updated>2020-07-19T14:14:00.000Z</updated>
-        <content type="html"><![CDATA[<p>公告：本博客隔几个月会重置一次，请悉知；本博客的页面也有可能进行改版，要尽快习惯。<br>
-因为这个网站是用GitHub建立的，GitHub在国外，所以国内打开的速度比较慢，需要耐心等待，或者有条件的话最好科学上网。手机端想要打开网站最好科学上网，不然要等好久。<br>
-本人暂无微信公众号，要分享的文件都会在这里发出来，大家想寻找相关文件可通过标签寻找文件。<br>
-分享的形式主要以网盘为主，当然，部分大文件会分享31天不限速的下载通道（大出血啊）；有网盘超级会员的就随意啦。</p>
-<p>联系方式：<br>
-百度网盘账号昵称：几何狂man（资源分享）<br>
-A站：几何狂man</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[现在还在生存中的网盘加速器-亿寻]]></title>
         <id>https://jihe2020.github.io/post/xian-zai-huan-zai-sheng-cun-zhong-de-wang-pan-jia-su-qi-yi-xun/</id>
