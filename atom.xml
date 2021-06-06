@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jihe2020.github.io</id>
     <title>小Cheems的博客</title>
-    <updated>2021-06-06T07:51:30.338Z</updated>
+    <updated>2021-06-06T08:04:29.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jihe2020.github.io"/>
     <link rel="self" href="https://jihe2020.github.io/atom.xml"/>
@@ -19,12 +19,6 @@
         <summary type="html"><![CDATA[<p>pandowload的作者被抓后，这个软件也彻底凉了，本人也深深受到打击。最近网盘直链下载这个脚本也限速了。我只好找出了很久以前下载的亿寻，下载的速度居然提上来了！至少不用几十kb/s了，最高可达到1.8mb/s（我已经满足）</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>pandowload的作者被抓后，这个软件也彻底凉了，本人也深深受到打击。最近网盘直链下载这个脚本也限速了。我只好找出了很久以前下载的亿寻，下载的速度居然提上来了！至少不用几十kb/s了，最高可达到1.8mb/s（我已经满足）</p>
-<!-- more -->
-<p>亿寻是比较容易上手的，我这里就不多说了。亿寻的作者为了找一个人，专门写了这款程序，ta也一直在不断更新，吧这个程序维护得很好。为了帮助作者，我们要多转发这个程序鸭。<br>
-亿寻官网：https://yixun.writeas.com/yi-xun<br>
-亿寻现在的网盘账密登录暂时不能用，现在只有扫二维码、接受手机验证码和cookie这三种方法来登录百度网盘的账号。如果手机不在身边，可以用cookie登录，cookie登录教程：https://www.bilibili.com/video/BV1uK4y1k76z/<br>
-亿寻界面：<img src="https://jihe2020.github.io/post-images/1595167773231.png" alt="" loading="lazy"><br>
-这是网盘下载的关键，所以置顶了。下载速度自己去体验吧。</p>
 ]]></content>
     </entry>
     <entry>
@@ -33,7 +27,5 @@
         <link href="https://jihe2020.github.io/post/wen-zhang-ce-shi/">
         </link>
         <updated>2016-08-13T07:50:12.000Z</updated>
-        <content type="html"><![CDATA[<p>爱死小破站了，爱死哲学了</p>
-]]></content>
     </entry>
 </feed>
